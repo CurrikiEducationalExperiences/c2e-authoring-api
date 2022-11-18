@@ -1,0 +1,20 @@
+{
+    "project": {
+        "id": 1,
+        "organization_id": 1,
+        "organization_visibility_type_id": 4,
+        "name": "The Science of Golf",
+        "description": "Uncover the science, technology, engineering, and mathematics behind the game of golf.",
+        "thumb_url": "/storage/uploads/nN5y8v8zh2ghxrKuHCv5wvJOREFw0Nr27s2DPxWq.png",
+        "shared": false,
+        "gcr_project_visibility": true,
+        "starter_project": false,
+        "order": null,
+        "status": 1,
+        "status_text": "DRAFT",
+        "indexing": null,
+        "indexing_text": "NOT REQUESTED",
+        "created_at": "2020-04-30T20:03:12.000000Z",
+        "updated_at": "2020-09-17T09:44:27.000000Z"
+    }
+}
